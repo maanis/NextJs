@@ -18,11 +18,8 @@ const Snippet = () => {
                 title, code
             }
         })
-
         console.log(snippet)
         redirect('/')
-
-
     }
 
     return (
